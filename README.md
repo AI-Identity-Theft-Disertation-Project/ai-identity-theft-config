@@ -1,1 +1,1 @@
-# ai-identity-theft
+# ai-identity-theft-config
